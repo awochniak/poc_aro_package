@@ -14,7 +14,7 @@ TODO: Add long description of the pod here.
   s.module_name   = 'p24_sdk_public'
   s.ios.deployment_target = '14.0'
   s.swift_version = '5.3'
-  s.source_files = 'poc_aro_3/Classes/**/*'
+  s.source_files = 'poc_aro_package/Classes/**/*'
 
   s.dependency "poc_aro_3"
 
