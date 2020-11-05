@@ -1,0 +1,6 @@
+framework module poc_aro_package {
+  umbrella header "poc_aro_package-umbrella.h"
+
+  export *
+  module * { export * }
+}
